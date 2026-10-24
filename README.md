@@ -102,4 +102,4 @@ Or set it in `Preferences.sublime-settings`:
 
 ## License
 
-The Chambana License, an MIT-style license. See [LICENSE](LICENSE).
+[The Unlicense](https://unlicense.org) (public domain). See [LICENSE](LICENSE).
